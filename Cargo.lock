@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "compare-the-triplets"
 version = "0.1.0"
+
+[[package]]
+name = "simple-array-sum"
+version = "0.1.0"
