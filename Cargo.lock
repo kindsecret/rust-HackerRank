@@ -7,7 +7,15 @@ name = "a-very-big-sum"
 version = "0.1.0"
 
 [[package]]
+name = "bear-and-steady-gene"
+version = "0.1.0"
+
+[[package]]
 name = "compare-the-triplets"
+version = "0.1.0"
+
+[[package]]
+name = "diagonal-difference"
 version = "0.1.0"
 
 [[package]]
