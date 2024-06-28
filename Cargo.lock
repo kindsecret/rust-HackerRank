@@ -35,6 +35,10 @@ name = "diagonal-difference"
 version = "0.1.0"
 
 [[package]]
+name = "extra-long-factorials"
+version = "0.1.0"
+
+[[package]]
 name = "simple-array-sum"
 version = "0.1.0"
 
