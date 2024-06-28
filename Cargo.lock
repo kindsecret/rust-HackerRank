@@ -27,6 +27,10 @@ name = "compare-the-triplets"
 version = "0.1.0"
 
 [[package]]
+name = "connected-cell-in-grid"
+version = "0.1.0"
+
+[[package]]
 name = "diagonal-difference"
 version = "0.1.0"
 
