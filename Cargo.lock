@@ -43,6 +43,10 @@ name = "journey-to-moon"
 version = "0.1.0"
 
 [[package]]
+name = "larry-array"
+version = "0.1.0"
+
+[[package]]
 name = "simple-array-sum"
 version = "0.1.0"
 
