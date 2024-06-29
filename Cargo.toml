@@ -1,3 +1,3 @@
-workspace = { members = ["easy/a-very-big-sum", "easy/compare-the-triplets", "easy/diagonal-difference", "easy/simple-array-sum", "easy/solve-me-first", "medium/bear-and-steady-gene", "medium/bigger-is-greater", "medium/climbing-the-leaderboard", "medium/coin-change", "medium/connected-cell-in-grid", "medium/extra-long-factorials", "medium/journey-to-moon"] }
+workspace = { members = ["easy/a-very-big-sum", "easy/compare-the-triplets", "easy/diagonal-difference", "easy/simple-array-sum", "easy/solve-me-first", "medium/bear-and-steady-gene", "medium/bigger-is-greater", "medium/climbing-the-leaderboard", "medium/coin-change", "medium/connected-cell-in-grid", "medium/extra-long-factorials", "medium/journey-to-moon", "medium/larry-array", "medium/magic-square-forming"] }
 
 resolver = "2"
