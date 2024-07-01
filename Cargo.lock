@@ -67,6 +67,10 @@ name = "queens-attack2"
 version = "0.1.0"
 
 [[package]]
+name = "really-special-subtree"
+version = "0.1.0"
+
+[[package]]
 name = "simple-array-sum"
 version = "0.1.0"
 
