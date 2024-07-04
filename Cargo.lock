@@ -83,7 +83,19 @@ name = "sherlock-and-anagrams"
 version = "0.1.0"
 
 [[package]]
+name = "short-palindrome"
+version = "0.1.0"
+
+[[package]]
+name = "shortest-reach"
+version = "0.1.0"
+
+[[package]]
 name = "simple-array-sum"
+version = "0.1.0"
+
+[[package]]
+name = "snakes-and-ladders"
 version = "0.1.0"
 
 [[package]]
