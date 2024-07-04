@@ -79,6 +79,10 @@ name = "roads-and-libraries"
 version = "0.1.0"
 
 [[package]]
+name = "sherlock-and-anagrams"
+version = "0.1.0"
+
+[[package]]
 name = "simple-array-sum"
 version = "0.1.0"
 
