@@ -95,5 +95,9 @@ name = "simple-array-sum"
 version = "0.1.0"
 
 [[package]]
+name = "snakes-and-ladders"
+version = "0.1.0"
+
+[[package]]
 name = "solve-me-first"
 version = "0.1.0"
