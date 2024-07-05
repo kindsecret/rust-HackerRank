@@ -101,3 +101,7 @@ version = "0.1.0"
 [[package]]
 name = "solve-me-first"
 version = "0.1.0"
+
+[[package]]
+name = "stock-maximize"
+version = "0.1.0"
