@@ -101,3 +101,19 @@ version = "0.1.0"
 [[package]]
 name = "solve-me-first"
 version = "0.1.0"
+
+[[package]]
+name = "stock-maximize"
+version = "0.1.0"
+
+[[package]]
+name = "the-time-in-words"
+version = "0.1.0"
+
+[[package]]
+name = "threed-surface-area"
+version = "0.1.0"
+
+[[package]]
+name = "unbounded-knapsack"
+version = "0.1.0"
