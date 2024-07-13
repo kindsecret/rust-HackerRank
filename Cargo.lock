@@ -55,6 +55,10 @@ name = "magic-square-forming"
 version = "0.1.0"
 
 [[package]]
+name = "matrix-rotation-algo"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-loss"
 version = "0.1.0"
 
