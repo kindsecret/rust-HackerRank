@@ -63,6 +63,10 @@ name = "minimum-loss"
 version = "0.1.0"
 
 [[package]]
+name = "morgan-and-string"
+version = "0.1.0"
+
+[[package]]
 name = "non-divisible-subset"
 version = "0.1.0"
 
