@@ -7,6 +7,10 @@ name = "a-very-big-sum"
 version = "0.1.0"
 
 [[package]]
+name = "bead-ornaments"
+version = "0.1.0"
+
+[[package]]
 name = "bear-and-steady-gene"
 version = "0.1.0"
 
@@ -51,7 +55,15 @@ name = "magic-square-forming"
 version = "0.1.0"
 
 [[package]]
+name = "matrix-rotation-algo"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-loss"
+version = "0.1.0"
+
+[[package]]
+name = "morgan-and-string"
 version = "0.1.0"
 
 [[package]]
@@ -104,6 +116,10 @@ version = "0.1.0"
 
 [[package]]
 name = "stock-maximize"
+version = "0.1.0"
+
+[[package]]
+name = "string-similarity"
 version = "0.1.0"
 
 [[package]]
