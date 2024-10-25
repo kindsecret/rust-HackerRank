@@ -87,6 +87,10 @@ name = "pairs"
 version = "0.1.0"
 
 [[package]]
+name = "play-with-words"
+version = "0.1.0"
+
+[[package]]
 name = "queens-attack2"
 version = "0.1.0"
 
